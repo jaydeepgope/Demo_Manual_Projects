@@ -10,6 +10,7 @@ This project is dedicated to manual testing of the OpenCart web application. It 
 ## Getting Started:
 
 1. Clone this repository.
+ --> https://github.com/jaydeepgope/Demo_Manual_Projects/tree/main/OpenCart
 2. Open and review the provided test cases, test plans, and documentation to understand the testing scope and approach.
 3. Follow the documented steps in the test cases to manually execute tests on the OpenCart web application.
 
