@@ -10,9 +10,32 @@ This project is dedicated to manual testing of the OpenCart web application. It 
 ## Getting Started:
 
 1. Clone this repository.
-2. Review the provided test cases and test plans.
-3. Follow the documented steps to execute manual tests on OpenCart.
+2. Open and review the provided test cases, test plans, and documentation to understand the testing scope and approach.
+3. Follow the documented steps in the test cases to manually execute tests on the OpenCart web application.
 
+## Functionalities Covered
+The following functionalities were covered in this project:
+
+1. **Registration of new user**
+2. **Login user**
+3. **Logout user**
+4. **Forgot Password**
+5. **Searching Products**
+6. **Product Compare functionality**
+7. **Product Display Page functionality for different types of Products**
+8. **Add to Cart**
+9. **Home Page**
+10. **CheckOut**
+11. **My Account**
+12. **Change Password**
+13. **NewsLetter**
+14. **Contact Us**
+15. **Currency**
+
+## Testing Activities
+- **Designed and Documented Test Cases**: Created test cases for different functionalities and scenarios.
+- **Executed Test Cases**: Executed test cases to verify the functionalities.
+- **Identified and Report Issues**: Discovered issues and reported them.
 
 
 ## Project Structure:
@@ -28,4 +51,6 @@ This project is dedicated to manual testing of the OpenCart web application. It 
 | BugReport(OpenCart).xlsx | This Excel file is likely used for tracking and documenting software bugs and issues found during testing. It may include details such as bug descriptions, severity, status, and steps to reproduce. |
 
 
-
+<h3 align="center">
+ThankYou
+</h3>
